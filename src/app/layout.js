@@ -1,5 +1,4 @@
 import { Inter } from "next/font/google";
-import "./globals.css";
 import "bootstrap/dist/css/bootstrap.css";
 import Menu from "@/components/client/Menu";
 
